@@ -199,4 +199,4 @@ Code: GPL-2.0-or-later, matching WordPress
 
 ---
 
-*Talk by [your name] · [your handle]. Corrections welcome — open an issue.*
+*Talk by Anup Kankale · [@Anupkankale](https://github.com/Anupkankale). Corrections welcome — open an issue.*
