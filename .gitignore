@@ -1,0 +1,7 @@
+# This repo holds the talk content only.
+# Everything else in this directory is the local WordPress/Docker install
+# and is deliberately not tracked.
+/*
+
+!/.gitignore
+!/README.md
